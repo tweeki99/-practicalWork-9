@@ -1,0 +1,7 @@
+C:\Users\Shipa\source\repos\BackupCopy\BackupCopy\bin\Debug\BackupCopy.exe.config
+C:\Users\Shipa\source\repos\BackupCopy\BackupCopy\bin\Debug\BackupCopy.exe
+C:\Users\Shipa\source\repos\BackupCopy\BackupCopy\bin\Debug\BackupCopy.pdb
+C:\Users\Shipa\source\repos\BackupCopy\BackupCopy\obj\Debug\BackupCopy.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\BackupCopy\BackupCopy\obj\Debug\BackupCopy.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\BackupCopy\BackupCopy\obj\Debug\BackupCopy.exe
+C:\Users\Shipa\source\repos\BackupCopy\BackupCopy\obj\Debug\BackupCopy.pdb
